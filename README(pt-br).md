@@ -13,7 +13,7 @@
 ## Tabela de Conteúdos
 
 - [A List of Useful Resources for Front End Developers](#a-list-of-useful-resources-for-front-end-developers)
-  - [Table of Contents](#table-of-contents)
+  - [Table of Contents](#table-of-contents)1234
   - [Learning](#learning)
   - [YouTube Channels](#youtube-channels)
   - [Blogs](#blogs)
